@@ -6,3 +6,7 @@ Start a new minecraft seed as soon as you save and to title with AI detection.
 You save and quit, it detects the button, clicks them.
 
 might add an option to delete previous world too
+
+ocr can still be a thing
+
+PROJECT COMPLETE AND WORKING ✅
